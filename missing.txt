@@ -1,0 +1,31 @@
+Currently, NeoBlock is missing the following things:
+
+CMakeLists
+A Anti Memory Injection
+A Debugger Detector
+Integrity check
+Remotes and Bindables
+A LOT of the Lua environment (may stick with LuaU instead of a custom environment)
+Workspace and more services
+There is a lot of placeholders and empty files
+A Baseplate Place File (will be used for the New Place option in the upcoming studio) (tho empty)
+NBPX Reader/Writer and Serializer (NBPX stands for NeoBlock Place XML)
+Server
+Client
+DataTypes
+Includes
+and i forgor the rest
+
+It's basically a copy of the Roblox Engine. but i will extend it later. such as more services, official website, game servers, etc...
+Also it will have a custom anticheat (because the Roblox one sucks)
+
+ALSO, You may want the Roblox Assets for this project. I don't want to upload like 9 billion assets here. so you can copy then from your Roblox installation!
+How to get the assets:
+1. Windows, open Run box (Win + R) and type in `%localappdata%\Roblox\Versions`. then search for a Roblox Installation folder. E.x.: "version-9fc834fd39d". Then copy the content folder into somewhere in the project. Then use them!
+2. MacOS, idk how to becuz i don't own a Mac, you may want to update this
+3. Linux, same reason as MacOS.
+
+Also probably this project will stick to Windows support only, because on linux it uses a different type of Socket? and i'm too lazy to port it to linux because im windows user
+
+So as i said, if you really want this project having a continuation forward, consider helping me develop this. (i'll learn C/C++ later)
+I would be very grateful!
